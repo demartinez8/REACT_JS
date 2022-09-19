@@ -1,4 +1,4 @@
-<h2>Aplicación <b>To-Do</b>, Realizada en React JS.</h2>
+<h2>Aplicación de <b>Tareas</b>, Realizada en React JS.</h2>
 
 Se encuentra compilada y funcionando en el siguiente link : <b>https://davidmartinez.com.co/REACT_JS/To-Do/</b>
 
