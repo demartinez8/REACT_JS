@@ -1,4 +1,4 @@
-const API_KEY = "412883d1ec74e9a2b2746a2fc7fcd205";
+const API_KEY = "SU API KEY GENERADA";
 
 export const getWaetherByCoords = async (
   LAT: number,
